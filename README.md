@@ -1,9 +1,11 @@
 # Cinema App UI Drill
-Welcome to the cinema app!, this app is made to practice the UI in android applications
+Welcome to the cinema app!
+This app is made to practice the UI in android applications
 
 # What's in the app?
 This app is a simulation to viewing movie's summary, photos and an option to buy tickets.
-the movie chosen for this app is: Batman The Dark Knight
+This app works both in english and hebrew!
+The movie chosen for this app is: Batman The Dark Knight
 
 
 # Screenshots:
